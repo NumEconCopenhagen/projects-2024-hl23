@@ -1,11 +1,9 @@
-# \[Group name\]
+# \[HL23\]
 
 **Group members:**
-- A
-- B
-- C
+- Ben Mouelhi
 
 This repository contains  
-1. Inaugural project. 
-2. Data project. We fetch data from **source x** on **y** and show that ...
-3. Model project. We model ...
+1. The Inaugural project 2024 can be found in the folder "Inaugural Project Submission March 24 2024" and consists of: 
+	a. InauguralProject2024.ipynb
+	b. ExchangeEconomy.py
