@@ -11,5 +11,5 @@ This repository contains
 
 2. The Data Project 2024 can be found in the folder "Data Project Submission April 14 2024" and consists of:
 	- a. data_project.ipynb
-	- b. ESS8e02_3.csv
+	- b. ESS8e02_3.zip (containing a csv)
 
