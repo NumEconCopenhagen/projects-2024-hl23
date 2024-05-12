@@ -1,7 +1,7 @@
 # Model analysis project
 
-Our project is titled **PROJECT TITLE** and is about EXPLAIN.
+The project is about power market pricing and how a hydroelectric plant in another country can maximize it's revenue from exporting to Germany under constraints.
 
-The **results** of the project can be seen from running [modelproject.ipynb](ModelProject.ipynb).
+The **results** of the project can be seen from running [ModelProject.ipynb](ModelProject.ipynb).
 
-**Dependencies:** Apart from a standard Anaconda Python 3 installation, the project requires no further packages.
+The Germany.csv file contains price data which was used to calibrate the model.
