@@ -13,3 +13,6 @@ This repository contains
 	- a. data_project.ipynb
 	- b. ESS8e02_3.zip (containing a csv)
 
+3. The Model Project 2024 can be found in the folder "" and consists of:
+	- a. ModelProject.ipynb
+	- b. Germany.csv 
